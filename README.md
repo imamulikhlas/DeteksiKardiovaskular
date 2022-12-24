@@ -1,1 +1,2 @@
 # DeteksiKardiovaskular
+Aplikasi Pendeteksi Kardiovaskular menggunakan Tensorflow
